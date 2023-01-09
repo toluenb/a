@@ -1,0 +1,34 @@
+<div style='font-family: "Arial"; color: #d54c73; font-size: 10px;'>Question:</div>
+
+</br>
+ 
+<div class="container">
+
+<div style='font-family: "Arial"; font-size: 10px;'>{{edit:hint:front text}}</div>
+
+</div>
+
+</br>
+
+<div style='font-family: "Arial";color: #d54c73;font-size: 10px;'>Answer:</div>
+
+</br>
+
+<div class="container">
+
+<div class="img">{{image}}</div>
+
+<div class="container-content">
+
+<div style='font-family: "Arial"; font-size: 20px;'>{{edit:back text}}</div>
+
+<div. style='font-family: "Arial"; font-size: 20px;'>{{edit:hint:extra back text}}</div>
+
+</div>
+
+</br> 
+
+<div style='font-family: "Arial"; text-align: center; font-size: 10px;'>{{edit:hint:source}}</div>
+
+<script>
+
